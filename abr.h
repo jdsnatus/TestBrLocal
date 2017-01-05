@@ -2,12 +2,13 @@
 #define ABR_H
 /***********************************************************************
 
-    (C) Copyright 2012. Natus Medical Inc. All Rights Reserved.
+    (C) Copyright 2016. Natus Medical Inc. All Rights Reserved.
 
 Name
     abr.h
 
 Description
+   2017-05-01 JDS include file for abr module.
 
 Notes
 
